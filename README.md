@@ -6,6 +6,8 @@ It does not do much, simply displays welcome page, asks backend for current user
 The reason behind this project is to provide independent from JavaScript ecosystem, dependencies building mechanism 
 based on pure Java.
 
+Read more on [Medium](https://medium.com/@milosz.polak/self-contained-rich-web-application-jars-b243d28980cd).
+
 ## Building & Running
 To run the project from IDE, execute `OnefoldApplication` class with arguments `server files/configuration.yml`.
 (If you are familiar with [Dropwizard](https://www.dropwizard.io) project this should be rather straightforward, if 
