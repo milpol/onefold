@@ -18,7 +18,7 @@
         <minify-maven-plugin.version>1.7.6</minify-maven-plugin.version>
         <maven-replacer-plugin.version>1.4.1</maven-replacer-plugin.version>
         <maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
-        <babel-maven-plugin.version>1.0</babel-maven-plugin.version>
+        <babel-maven-plugin.version>1.1</babel-maven-plugin.version>
         <!-- dependencies -->
         <babel.version>6.26.0</babel.version>
         <react.version>16.7.0</react.version>
